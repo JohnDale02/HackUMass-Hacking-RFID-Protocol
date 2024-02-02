@@ -2,9 +2,9 @@
 
 **HackUMass Fall 2022 Grand Prize Winner**
 
-This repository contains all the code produced during the HackUMass 36-hour hackathon. Our project exposes insecurities in Wiegand, a commonly used RFID protocol, through reverse engineering and implementation. We demonstrate how a malicious adversary could jeopardize the security of the system, including remotely performing DoS (Denial of Service) and replay attacks on an access control system. 
+This repository contains all the code produced during the HackUMass 36-hour hackathon. Our project exposes vulnerabilities in Wiegand, a commonly used RFID protocol, through reverse engineering and implementation. We demonstrate how a malicious adversary could compromise the security of the system, including performing remote DoS (Denial of Service) and replay attacks on an access control system.
 
-To address these vulnerabilities, our project integrates a GUI for monitoring system status and the information passing through the system in real-time. Furthermore, we build upon our findings to implement a safer system that uses biometric 2-factor authentication to prevent replay attacks.
+To address these vulnerabilities, our project integrates a GUI for real-time monitoring of system status and the information flowing through the system. Moreover, we build upon our findings to implement a more secure system that utilizes biometric 2-factor authentication to thwart replay attacks.
 
 ## Features
 
